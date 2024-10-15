@@ -1,35 +1,63 @@
-# Hi there, I'm Eyal 👋
+<!-- Profile GIF with Programmer Vibe -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="Coding Vibe" width="600"/>
+</div>
 
-I'm a third-year Computer Science student passionate about building full-stack applications and diving deep into backend development. I enjoy working with modern web technologies like Node.js and React to create efficient and user-friendly web applications.
+# 👋 Hi, I'm Eyal Segev
 
-## 🔧 Technologies & Tools
+I’m a third-year Computer Science student passionate about web development, backend engineering, and working on full-stack projects.
 
-### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Contact Information -->
+<div align="center">
+  <h2>Contact Me</h2>
+  <p>📫 <a href="mailto:eyalsegev123@gmail.com">eyalsegev123@gmail.com</a></p>
+  <p>💼 <a href="https://www.linkedin.com/in/eyal-segev/">LinkedIn</a></p>
+</div>
 
-### Frontend:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-### Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🔧 Skills
 
-## 🛠️ Projects
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&logoSize=30)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&logoSize=30)
+![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white&logoSize=30)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&logoSize=30)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoSize=30)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&logoSize=30)
 
-### [Best Basket](https://github.com/username/bestbasket)
-A web app that allows users to compare grocery prices from top companies in Israel. 
-- **Tech Stack:** Node.js, Express, PostgreSQL, React.
-- Currently working on implementing API calls and polishing the frontend.
+### 🚀 Backend:
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&logoSize=30" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white&logoSize=30" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&logoSize=30" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=restapi&logoColor=white&logoSize=30" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoSize=30" alt="Docker"/>
+</p>
 
-## 📫 How to Reach Me
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+### 🌐 Frontend:
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&logoSize=30" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoSize=30" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&logoSize=30" alt="CSS3"/>
+</p>
 
-![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+### 🛠 Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&logoSize=30" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&logoSize=30" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoSize=30" alt="Docker"/>
+</p>
+
+
+## 🎯 Currently Working On
+Building **Best Basket** - a full-stack web app for comparing grocery prices in Israel.
+
+### 🤓 Interesting Fact
+Did you know that the first 1GB hard disk drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000? Today, you can fit terabytes of data in a device smaller than your hand!
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Funny Programmer GIF" width="400"/>
+</div>
