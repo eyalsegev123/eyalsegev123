@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Eyal Segev
 
-I’m a third-year Computer Science student passionate about web development, backend engineering, and working on full-stack projects.
+I’m a third-year Computer Science student at Ben Gurion University, I'm passionate about web development, backend engineering, and working on full-stack projects.
 
 <!-- Contact Information -->
 <div align="center">
