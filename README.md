@@ -51,7 +51,7 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
 
 
 ## 🎯 Currently Working On
-Building **Best Basket** - a full-stack web app for comparing grocery prices in Israel.
+Building **Best Basket** - a full-stack web app for comparing grocery prices.
 
 ### 🤓 Interesting Fact
 Did you know that the first 1GB hard disk drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000? Today, you can fit terabytes of data in a device smaller than your hand!
