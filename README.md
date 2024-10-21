@@ -57,7 +57,3 @@ Building **Best Basket** - a full-stack web app for comparing grocery prices in 
 Did you know that the first 1GB hard disk drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000? Today, you can fit terabytes of data in a device smaller than your hand!
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Funny Programmer GIF" width="400"/>
-</div>
