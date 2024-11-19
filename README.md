@@ -35,6 +35,14 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoSize=30" alt="Docker"/>
 </p>
 
+### ☁ Cloud Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="AWS"/>
+</p>
+- EC2: Deploy and manage virtual machines.
+- S3: Store and retrieve data efficiently.
+- SQS: Manage message queues for distributed systems.
+
 ### 🌐 Frontend:
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&logoSize=30" alt="React"/>
@@ -53,7 +61,3 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
 ## 🎯 Currently Working On
 Building **Best Basket** - a full-stack web app for comparing grocery prices.
 
-### 🤓 Interesting Fact
-Did you know that the first 1GB hard disk drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000? Today, you can fit terabytes of data in a device smaller than your hand!
-
----
