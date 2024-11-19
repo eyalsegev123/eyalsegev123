@@ -39,9 +39,6 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="AWS"/>
 </p>
-- EC2: Deploy and manage virtual machines.
-- S3: Store and retrieve data efficiently.
-- SQS: Manage message queues for distributed systems.
 
 ### 🌐 Frontend:
 <p align="left">
