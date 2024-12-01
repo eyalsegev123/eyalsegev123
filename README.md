@@ -56,5 +56,6 @@ Building **Best Basket** - a full-stack web app for comparing grocery prices.
 ## My moto
 
 <div align="center">
-  <img src="https://github.com/eyalsegev123/eyalsegev123/raw/main/coding.gif" alt="Coding Vibe" width="600"/>
+  <img src="https://media1.tenor.com/m/c7IZhDj_OdcAAAAd/work-work-work-work.gif" alt="Work Work Work GIF" width="600"/>
 </div>
+
