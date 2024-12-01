@@ -1,8 +1,3 @@
-<!-- Profile GIF with Programmer Vibe -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="Coding Vibe" width="600"/>
-</div>
-
 # 👋 Hi, I'm Eyal Segev
 
 I’m a third-year Computer Science student at Ben Gurion University, excited about programming and technology. Currently, I'm focusing on web development and backend engineering while actively developing personal full-stack projects.
@@ -58,3 +53,8 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
 ## 🎯 Currently Working On
 Building **Best Basket** - a full-stack web app for comparing grocery prices.
 
+## My moto
+
+<div align="center">
+  <img src="https://github.com/eyalsegev123/eyalsegev123/raw/main/giphy.gif" alt="Coding Vibe" width="600"/>
+</div>
