@@ -51,11 +51,6 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
 
 
 ## 🎯 Currently Working On
-Building **Best Basket** - a full-stack web app for comparing grocery prices.
+Building **FlyAway** - a full-stack web app for planning trips leveraging the use of OpenAI API.
 
-## My moto
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/c7IZhDj_OdcAAAAd/work-work-work-work.gif" alt="Work Work Work GIF" width="600"/>
-</div>
 
