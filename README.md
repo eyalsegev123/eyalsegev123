@@ -34,9 +34,10 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
 ### ☁ Cloud Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="AWS"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white&logoSize=30" alt="S3"/> 
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white&logoSize=30" alt="EC2"/> 
   <img src="https://img.shields.io/badge/EMR-232F3E?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="EMR"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white&logoSize=30" alt="S3"/> 
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white&logoSize=30" alt="EC2"/>
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white&logoSize=30" alt="SQS"/>
 </p>
 
 ### 🌐 Frontend:
