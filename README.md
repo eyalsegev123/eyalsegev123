@@ -36,15 +36,7 @@ Currently focused on Growing into AI & systems-level engineering
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&logoSize=30" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=restapi&logoColor=white&logoSize=30" alt="REST API"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&logoSize=30" alt="JWT"/>
-</p>
-
-### ☁ Cloud Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="AWS"/>
-  <img src="https://img.shields.io/badge/EMR-232F3E?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="EMR"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white&logoSize=30" alt="S3"/> 
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white&logoSize=30" alt="EC2"/>
-  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white&logoSize=30" alt="SQS"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
 
 ### 🌐 Frontend:
@@ -53,8 +45,23 @@ Currently focused on Growing into AI & systems-level engineering
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoSize=30" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&logoSize=30" alt="CSS3"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white&logoSize=30" alt="MUI"/> 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&logoSize=30" alt="Bootstrap"/>
 </p>
+
+### ☁ Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="AWS"/>
+  <img src="https://img.shields.io/badge/EMR-232F3E?style=flat-square&logo=amazonaws&logoColor=white&logoSize=30" alt="EMR"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white&logoSize=30" alt="S3"/> 
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white&logoSize=30" alt="EC2"/>
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white&logoSize=30" alt="SQS"/>
+</p>
+
+### 🧪 Testing & Quality
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+</p>
+
 
 ### 🛠 Tools:
 <p align="left">
