@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Eyal Segev
 
-I’m a third-year Computer Science student at Ben Gurion University, excited about programming and technology. Currently, I'm focusing on web development and backend engineering while actively developing personal full-stack projects.
+Software Engineer | Full-Stack Developer | CS @ Ben-Gurion University
+
+I’m a software engineer with a strong foundation in computer science fundamentals and hands-on experience building production-style full-stack applications.
+I enjoy working end-to-end — from system design and backend APIs to clean, scalable frontend UIs.
+
+Currently focused on Growing into AI & systems-level engineering
 
 <!-- Contact Information -->
 <div align="center">
@@ -20,6 +25,8 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&logoSize=30)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoSize=30)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&logoSize=30)
+![Hack](https://img.shields.io/badge/Hack-3B82F6?style=flat-square&logo=hack&logoColor=white&logoSize=30)
+
 
 ### 🚀 Backend:
 <p align="left">
@@ -55,9 +62,4 @@ I’m a third-year Computer Science student at Ben Gurion University, excited ab
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&logoSize=30" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoSize=30" alt="Docker"/>
 </p>
-
-
-## 🎯 Currently Working On
-Building **FlyAway** - a full-stack web app for planning trips leveraging the use of OpenAI API.
-
 
